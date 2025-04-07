@@ -10,7 +10,6 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.svm import SVR
-import warnings
 import argparse
 from datetime import datetime, timedelta
 
